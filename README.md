@@ -9,7 +9,9 @@
 
 Este projeto é um aplicativo de CRUD de comércio com **Ionic 3** e **Node.js 10.24.1**. Ele permite adicionar, editar, listar e excluir pacientes de uma base de dados. 
 
-![Logo do Projeto]()
+(![Captura de tela larissa](https://github.com/user-attachments/assets/ccaa44bc-1aba-485b-974e-9105cff9cdf8)
+)
+
 
 ## 🛠️ Tecnologias Utilizadas
 
